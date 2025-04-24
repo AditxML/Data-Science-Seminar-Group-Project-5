@@ -1,0 +1,8 @@
+The model architecture is taken from kahn et al. 2023.
+- Hyperparameters, etc.
+
+Windowing is taken from Emperical Asset pricing via Machine Learnng - GU,KEYLLY, XIU
+- They split the data into training, validation and test sample.
+    This is 3 parts, we do 2?
+    We also take 30% of data as training, but rest as validation. - Gu, Kelly, Xiu do this differently
+    Why do we do it different - Should we update the models accordingly?

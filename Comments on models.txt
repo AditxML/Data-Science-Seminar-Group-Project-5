@@ -6,3 +6,5 @@ Windowing is taken from Emperical Asset pricing via Machine Learnng - GU,KEYLLY,
     This is 3 parts, we do 2?
     We also take 30% of data as training, but rest as validation. - Gu, Kelly, Xiu do this differently
     Why do we do it different - Should we update the models accordingly?
+
+Contemporaneous surprises - Are we handling them based on a good paper as source?
